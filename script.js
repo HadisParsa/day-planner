@@ -4,7 +4,7 @@ function init() {
   //On top of the page shows the present day
   $("#currentDay").text(moment().format("dddd, MMMM Do"));
 
-  //blocks seting update every minute
+  //Blocks seting update every minute
   TimeBlocks();
   setInterval(TimeBlocks, 60000);
 

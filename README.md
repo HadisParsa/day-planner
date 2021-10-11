@@ -26,7 +26,7 @@ This project is about a simple calender that allows user to save events for typi
 
 
 ## Link
- [Click here to acces to the Work Day Scheduler]().
+ [Click here to access to the Work Day Scheduler](https://hadisparsa.github.io/day-planner/).
 
 # Table of Contents
 
@@ -34,9 +34,9 @@ This project is about a simple calender that allows user to save events for typi
 
 Here is what the day planner looks like: 
     
-![alt text](Assets/images/image1.jpg)
+![screenshot](Assets/images/image1.jpg)
 
-![alt text](Assets/images/image2.jpg)
+![screenshoot](Assets/images/image2.jpg)
 
 
 
