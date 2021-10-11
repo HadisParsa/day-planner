@@ -34,9 +34,9 @@ This project is about a simple calender that allows user to save events for typi
 
 Here is what the day planner looks like: 
     
-![alt text](assets/images/image1.jpg)
+![alt text](Assets/images/image1.jpg)
 
-![alt text](assets/images/image2.jpg)
+![alt text](Assets/images/image2.jpg)
 
 
 
